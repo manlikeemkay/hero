@@ -6,6 +6,18 @@
 
 This _Tour of Heroes_ project is a result of the [official introduction](https://angular.io/tutorial) to the fundamentals of [Angular](https://angular.io/). It shows you how to set up your local development environment and develop an app using the [Angular CLI](https://angular.io/cli) tool.
 
+> ℹ️ This project was generated with Angular CLI version 9.1.1.
+
+## 🐙 Get Started
+
+### Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+### Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
 ## 💡 Contributing
 
 1. Fork this repository.
@@ -15,6 +27,8 @@ This _Tour of Heroes_ project is a result of the [official introduction](https:/
 5. Submit a pull request!
 
 ## 📚 Acknowledgements
+
+
 
 The MIT License: https://opensource.org/licenses/MIT.
 
