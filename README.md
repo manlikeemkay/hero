@@ -28,8 +28,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## 📚 Acknowledgements
 
-
-
 The MIT License: https://opensource.org/licenses/MIT.
 
 ## ⚖️ License (MIT)
