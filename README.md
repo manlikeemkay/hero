@@ -14,6 +14,8 @@ This _Tour of Heroes_ project is a result of the [official introduction](https:/
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request!
 
+## 📚 Acknowledgements
+
 The MIT License: https://opensource.org/licenses/MIT.
 
 ## ⚖️ License (MIT)
